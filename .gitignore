@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.streamlit/secrets.toml
+data/
+outputs/
+参考アプリ/
+.codex/
+.agents/
+
